@@ -1,0 +1,17 @@
+body, img {
+    width: 750px;
+}
+
+body {background-color: gray;}
+
+p,figcaption, li, footer, td, th {
+    font-size: 20px;
+}
+
+blockquote {
+    font-size: 40px;
+}
+
+table {
+    border: 1px solid gray
+}
